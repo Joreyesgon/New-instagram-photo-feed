@@ -1,0 +1,63 @@
+body {
+    background-color: white
+}
+
+.contenedor {
+    width: 1200px;
+    height: 450px;
+    background-color: rgb(196, 196, 196);
+    margin: auto;
+    display: flex;
+    justify-content: center;
+}
+
+h1 {
+ text-align: center;
+}
+
+.post {
+    width: 500px;
+    height: 400px;
+    background-color: white;
+    margin: auto;
+}
+
+.header {
+    width: 500px;
+    height: 50px;
+    outline: black solid 1px;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+}
+
+.title {
+    margin-left: 15px;
+}
+
+.date {
+    color: lightgray;
+    margin-right: 5px;
+}
+
+.pic {
+    width: 500px;
+    height: 300px;
+   outline: 1px solid black;
+}
+
+.comment {
+    width: 500px;
+    height: 50px;
+    outline: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.myComment {
+    font-size: small;
+    text-align: justify;
+    padding: 5px 5px;
+    
+}
