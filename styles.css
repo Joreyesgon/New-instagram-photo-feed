@@ -3,8 +3,8 @@ body {
 }
 
 .contenedor {
-    width: 1200px;
-    height: 450px;
+    width: 1300px;
+    height: 440px;
     background-color: rgb(196, 196, 196);
     margin: auto;
     display: flex;
@@ -37,7 +37,7 @@ h1 {
 
 .date {
     color: lightgray;
-    margin-right: 5px;
+    margin-right: 6px;
 }
 
 .pic {
